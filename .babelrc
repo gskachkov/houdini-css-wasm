@@ -1,0 +1,13 @@
+{
+  "presets": [
+     ["env", {
+      "targets": {
+        "browsers": [ "last 1 versions" ]
+      }
+    }],
+    "react",
+    "stage-1",
+    "es2015"
+  ],
+  "plugins": ["syntax-async-functions", "transform-regenerator"]
+}

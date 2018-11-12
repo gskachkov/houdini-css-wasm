@@ -1,0 +1,11 @@
+[package]
+authors = ["Oleksandr Skachkov <gskachkov@gmail.com>"]
+name = "rust-wasm"
+version = "0.1.0"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+image = "0.13.0"
+num-complex = "0.1.32"
