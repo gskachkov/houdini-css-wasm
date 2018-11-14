@@ -2,8 +2,11 @@
 
 ## Installation
 
-* `git clone git@github.com:gskachkov/rust-wasm-react-webpack.git`
-* cd rust-wasm-react-webpack
+* `git clone git@github.com:gskachkov/houdini-css-wasm.git`
+* cd houdini-css-wasm
 * npm install
 * npm start
 * visit `http://localhost:8080/`
+
+Test Houdini CSS with wasm
+
